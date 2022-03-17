@@ -1,1 +1,1 @@
-# rsschool-cv
+https://apankrats.github.io/rsschool-cv/cv
