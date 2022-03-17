@@ -37,3 +37,11 @@ close.addEventListener('click', function() {
 ### Work experience
 1. 2019-2021 - Kindergarten psychologist & site administrator
 2. 2021-current - IT sourcer at Andersen Lab
+
+### Education and courses
+* Vitebsk State University named after P.M. Masherov, 2019 (Psychologist, teacher of psychology
+* HTML, CSS video courses on YouTube channel Glo Academy, 2020
+* Online school Udemy, 2021 (Web-developer)
+___
+### Language
+English - A2
